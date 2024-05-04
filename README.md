@@ -26,7 +26,7 @@ Por ejemplo, en una pantalla grande, un elemento puede ocupar 4 columnas, dejand
 
 ## Instalar bootstrap usando CDN
 
-### Agregar hoja de estilos en sección &lt;header&gt;
+### Agregar hoja de estilos en sección &lt;head&gt;
 
 ```javascript
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
