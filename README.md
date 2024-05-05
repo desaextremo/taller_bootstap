@@ -14,7 +14,7 @@ Bootstrap proporciona un conjunto de herramientas y componentes front-end (HTML,
 
 ![bootstrap](img/bootstrap-logo.png)
 
-[Ir a sitio web bootstrap](https://getbootstrap.com/){:target="_blank" rel="noopener"}
+[Ir a sitio web bootstrap](https://getbootstrap.com/)
 
 ## ¿Qué es la grilla o grid de bootstrap?
 
